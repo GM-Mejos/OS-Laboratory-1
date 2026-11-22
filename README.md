@@ -5,7 +5,6 @@
 - **Name:** Guido Manfred G. Mejos
 - **Course and Section:** BSCA - 3 (BCA151 Operating Systems Lab)
 - **Instructor:** Maria Fe Bahinting
-- **Date Submitted:** November 22, 2026
 
 ---
 
